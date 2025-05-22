@@ -35,3 +35,22 @@ print(h)
 # looping in string 
 for x in "banana":
     print(x)
+    
+    
+ #to print the lenth of string we use len()
+val = "help me"
+print(len(val))
+print(type(val),val)
+# write a program 
+name = input("Entre name : ")
+age = float(input("entre age : "))
+print("my name is : ",name)
+print("my age is : ",age)
+print(type(name))
+print(len(name))
+print(type(age))
+#print(len(age))
+
+
+# \n = for next line and \t use to give the tab space 
+
